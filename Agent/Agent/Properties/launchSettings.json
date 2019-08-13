@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Agent": {
+      "commandName": "Project",
+      "commandLineArgs": "-n \"Test agent\" -h \"http://localhost:33333/\" -r \"http://localhost:53372\""
+    }
+  }
+}
